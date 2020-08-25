@@ -5,7 +5,6 @@ $(function(){
   
       $('#shopping-list-entry').val('');
   
-  
       $('.shopping-list').append(
         `<li>
           <span class="shopping-item">${newItem}</span>
